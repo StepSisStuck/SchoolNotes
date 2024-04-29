@@ -15,5 +15,3 @@
 7. [Chapter 8](./SP%20Y1/ETHICAL%20HACKING%20ESSENTIALS/Theory%20Notes/Topic%208A%20-%20System%20Security%20(Firewall).md)
 8. [Chapter 8B](./SP%20Y1/ETHICAL%20HACKING%20ESSENTIALS/Theory%20Notes/Topic%208B%20-%20IDS%20and%20IPS.md)
 
-# Frontend Development
-1. [FED Introduction](./SP%20Y1/)
