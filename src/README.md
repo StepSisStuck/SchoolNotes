@@ -7,3 +7,5 @@
 print("Thank you for visiting!")
 ```
 
+[See the website here!](https://stepsisstuck.github.io/schoolnotes/)
+
